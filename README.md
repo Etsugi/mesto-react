@@ -1,7 +1,14 @@
-# Проект 4+: Место-реакт
+# Проект: [Mesto-react](https://etsugi.github.io/mesto-react/)
 
-# https://etsugi.github.io/mesto-react/
+# Описание:
+Данный проект - переведённая на React версия проекта [Mesto](https://github.com/Etsugi/mesto).
 
-Данный проект - результат реструктуризации проекта Mesto с использованием инструментария react.
-
-В будущем проект будет ещё больше переделан под реакт, вновь заработают уже реализованные(но сломанные при переезде) функции.
+# Используемые технологии:
+* Flex
+* Grid
+* БЭМ
+* Figma
+* JavaScript
+* Webpack
+* React
+* Functional Components
